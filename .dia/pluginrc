@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+  <plugin filename="&lt;builtin&gt;"><name>Internal</name><description>Objetos y filtros internos para dia</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libcustom_lines_objects.so"><name>LineasPersonalizadas</name><description>Cargador de líneas personalizadas XML</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libuml_objects.so"><name>UML</name><description>Objetos de diagrama Lenguaje de Modelado Unificado UML 1.3</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libxfig_filter.so"><name>FIG</name><description>Filtro de importación y exportación del formato Fig</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libstandard_objects.so"><name>Standard</name><description>Objetos estándar</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libnetwork_objects.so"><name>Network</name><description>Objetos de diagrama de red</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libcustom_objects.so"><name>Personalizar</name><description>Cargador de formás personalizadas XML</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libmisc_objects.so"><name>Misc</name><description>Figuras variadas</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libaadl_objects.so"><name>AADL</name><description>Objetos de diagrama de análisis de arquitectura y lenguaje de diseño</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libxslt_filter.so"><name>XSLT</name><description>Filtro de TransArray XSL</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libshape_filter.so"><name>shape</name><description>dia shape export filter</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libgrafcet_objects.so"><name>GRAFCET</name><description>Objetos de diagrama GRAFCET</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libpstricks_filter.so"><name>Pstricks</name><description>Filtro de exportación Pstricks de TeX</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libvdx_filter.so"><name>VDX</name><description>Filtro de exportación e importación para el formato Visio XML</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libpgf_filter.so"><name>PGF</name><description>Filtro de exportación LaTeX PGF</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libkaos_objects.so"><name>KAOS</name><description>Diagrama de KAOS</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libart_filter.so"><name>Libart</name><description>Renderizado basado en libart</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libcgm_filter.so"><name>CGM</name><description>Filtro de exportación de Computer Graphics Metafile</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/liber_objects.so"><name>ER</name><description>Objetos de diagrama Entidad/Relación</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libpixbuf_filter.so"><name>Pixbuf</name><description>gdk-pixbuf based bitmap export/import</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libistar_objects.so"><name>Istar</name><description>Diagrama Istar</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libsvg_filter.so"><name>SVG</name><description>Filtro de importación y exportación de gráficos de vector escalables (SVG)</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libhpgl_filter.so"><name>HPGL</name><description>Filtro de exportación de HP Graphics Language</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libdxf_filter.so"><name>DXF</name><description>Filtros de importación y exportación de Drawing Interchange File</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libsadt_objects.so"><name>SADT</name><description>Objetos de diagrama SADT</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libdb_objects.so"><name>ERT</name><description>Objetos de diagrama de tabla de entidad/relación</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libchronogram_objects.so"><name>Chronogram</name><description>Objetos de diagrama cronograma</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libmetapost_filter.so"><name>Metapost</name><description>Filtro de exportación Metapost de TeX</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libpython_plugin.so"><name>Python</name><description>Soporte de scripts de python</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libwpg_filter.so"><name>WPG</name><description>Filtro de exportación de WordPerfect Graphics</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libjackson_objects.so"><name>Jackson</name><description>Diagrama de Jackson</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libflowchart_objects.so"><name>Flowchart</name><description>Objetos de diagrama de flujo</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libcairo_filter.so"><name>Cairo</name><description>Renderizado basado en Cairo</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libfs_objects.so"><name>FS</name><description>Objetos de diagrama de estructura de función</description></plugin>
+  <plugin filename="/usr/lib/x86_64-linux-gnu/dia/libpostscript_filter.so"><name>Postscript</name><description>Renderizado postscript</description></plugin>
+</plugins>
